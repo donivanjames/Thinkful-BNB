@@ -166,15 +166,16 @@ footer p {
     color: #bdbdbd;
   }
   .logo {
-    font-size: 30px;
+    font-size: 50px;
     justify-content: center;
   }
 }
 
 
-@media all and (min-width: 1200px) {
+@media all and (min-width: 800px) {
   .form-container {
     display: flex;
+    flex-wrap: wrap;
     justify-content: space-between;
   }
   .space-between {
@@ -192,7 +193,7 @@ footer p {
 @media all and (min-width: 750px) {
   .col {
     display: flex;
-    flex-direction: row;
+    flex-direction: row;  
     justify-content: flex-start;
   }
   .padding {
