@@ -4,6 +4,8 @@ Thinkfulbnb is a <b>mock</b> vacation rental website that allows people to rent 
 <br><br>
 Thinkfulbnb hosts rent out different kinds of properties, including single rooms, apartments, and unique living spaces such as yachts, houseboats, yurts, tiny houses, and even renovated medieval castles.
 
+---
+
 This was one of my first Thinkful assignments, way before we'd ever even heard of React.<br><br>
 For this assignment, I implemented Thinkfulbnb's landing page in HTML, using bootstrap and flexbot for the CSS. <br>
 Followed a mobile-first development approach. Images and fields will scale with screen size.
