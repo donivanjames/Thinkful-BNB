@@ -17,3 +17,5 @@ Followed a mobile-first development approach. Images and fields will scale with 
 ![image](https://user-images.githubusercontent.com/76602007/192031342-c12af9fa-c2a0-4dbe-a90a-0f4fad3e46c5.png)
 ![image](https://user-images.githubusercontent.com/76602007/192032274-514e2bc2-bb9b-4308-a255-1e043970f060.png)
 
+## Technology
+JavaScript, HTML, CSS, JSON, Node Package Manager, Mocha, Chai
